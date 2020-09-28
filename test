@@ -1,0 +1,30 @@
+JavaScript is a dynamic and leading client-side scripting language for use on Web pages. First java script appearance in 1995 on Netscape 2.0 named as Live-Script. it is implemented by java that’s why Netscape changed this name as JavaScript. It is developed for use on the Web pages and is closely integrated with HTML.
+It runs on the user's computer and not on the Web server, it works on the client side. The browser can interpret JavaScript statements that are embedded directly in an HTML page.
+JavaScript page can respond to User Events such as Mouse Clicks, Form Input, and Page Navigation. Java script statements are embedded in an HTML.
+JavaScript is nothing but a scripting language.
+•	A scripting language 
+Before the Web came, Scripting languages have been in use. In UNIX environment, scripts have been used to perform repetitive system administration tasks and to automate many tasks for less computer-literate users. Scripting languages are the basis of the cgi-bin programming that is currently used to add limited form of interactivity to Web pages. JavaScript is interpreted, which provides an easy development process. It contains a limited and easy-to-learn command set and syntax. 
+•	Designed for Simple, Small Programs 
+Scripting is well suited to implementing small programs. For instance, JavaScript would ideally be suited to developing a unit conversion calculator. Small tasks can be easily written and performed at acceptable speeds with JavaScript and would be easily integrated into a Web page. A more robust language such as Java would be less suitable for the quick development and easy maintenance of these types of applications. Because JavaScript is a scripting language,
+JavaScript would not suit to implementing a distributed CAD document display and manipulation environment for contrast. JavaScript will be a tool for integrating this type of Java applet or plug-in into a Web page during eventually.
+•	Designed for Programming User Events 
+When JavaScript is integrated into the browser and it can interact directly with the HTML pages, JavaScript program responses to user events such as mouse clicks and data entry in forms.
+For instance, a JavaScript script could be used to implement a simple help system. Whenever the user points a button or a link on the page, a helpful and informative message can be displayed in the bar at the bottom of the browser window.
+This adds interactivity to Web pages, makes forms dynamic, and can decrease the bandwidth requirements and server load incurred by using forms and CGI programming.
+•	Performs Repetitive Tasks 
+It is especially well designed for event-invoked tasks Just as which is suited to producing small programs, For example, JavaScript is ideal for calculating the content of on field in a form based on changes to the data in another field. The JavaScript program to handle the event is invoked, and the new data for the other field is calculated and displayed for each time the data modifying.
+•	Easy Debugging and Testing 
+Like other scripting languages, JavaScript eases development and trouble-shooting because it is not compiled. It is easy to test program code, look at the results, make changes, and test it again without the overhead and delay of compiling.
+•	Live Connect 
+It is enabling to connect JavaScript and Java applets in a page and between JavaScript and Plug-ins loaded on a page. JavaScript can trigger events in Java applets, and Java applets can call JavaScript methods and functions.
+JavaScript Strengths
+JavaScript is ease of learning and small size scripts which is offers several strengths to the programmer including a short development cycle. These strengths mean that JavaScript can be easily and quickly used to extend HTML pages already on the web. 
+•	Quick Development – JavaScript is less time-consuming at the compilation times that program can be developed in short period of time. This is enhanced by the fact that most of the interface features, such as dialog boxes, forms, and other GUI elements, are handled by the browser and HTML code. JavaScript programmers don’t have to worry about creating or handling these elements of their applications. 
+•	Easy to Learn – while JavaScript may share many similarities with Java, it doesn’t include the complex syntax and rules of Java. By learning just a few commands and simple rules of syntax, along with understanding the way objects are used in JavaScript, it is possible to begin creating fairly sophisticated programs. 
+•	Platform Independence – Because the WWW, by its very nature, is platform-independent, JavaScript programs created for the browsers are not tied to any specific hardware platform or operating system. The same program code can be used on any platform for which a browser is available. 
+•	Small Overhead – JavaScript programs tend to be quite small compared to the binary applets produced by Java. This minimizes storage requirements on the download times for the user. In addition, because JavaScript programs usually are included in the same file as the HTML code for a page, they require fewer network accesses. 
+Weakness 
+As would be expected, JavaScript has it own unique weaknesses. These include limited set of built-in methods, the inability to protect source code from prying eyes. 
+•	Limited Range of Built-in Methods 
+•	Generally, only client-side script 
+•	No Code Hiding
